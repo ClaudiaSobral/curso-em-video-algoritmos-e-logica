@@ -32,3 +32,23 @@ inicio
       Escreva("Me livrei da maldição")
 fimalgoritmo
 ```
+
+![Imagem do VisualG com portugol - Aula 2](/docs/img/portugol-aula-1.png)
+*De volta para 2010* - Imagem do VisualG com portugol
+
+### Variáveis
+
+São valores atribuídos a um identificador que ficam alocados na memória do computador.
+
+Tal como em C, em portugol é preciso declarar a variável e seu tipo.
+
+A nomeação de variáveis em portugol tem 6 regras (que se parecem com das outras linguagens de programação):
+
+1. Deve começar com uma letra
+2. Os próximos caracteres devem ser letras ou números
+3. Não pode usar símbolos, exceto _
+4. Não pode ter espaços em branco
+5. Não pode conter letras com acento
+6. Não pode ser uma palavra reservada
+
+Os tipos em portugol são ```Inteiro``` (int), ```Real``` (float), ```Caractere```(str) e ```Logico``` (bool)
