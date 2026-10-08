@@ -52,3 +52,7 @@ A nomeação de variáveis em portugol tem 6 regras (que se parecem com das outr
 6. Não pode ser uma palavra reservada
 
 Os tipos em portugol são ```Inteiro``` (int), ```Real``` (float), ```Caractere```(str) e ```Logico``` (bool)
+
+Em portugol, se atribui valor à variável assim:
+
+msg <-
