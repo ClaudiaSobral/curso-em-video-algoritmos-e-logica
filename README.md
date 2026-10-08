@@ -1,9 +1,7 @@
 # Curso de Algoritmos e Lógica de programação do professor Gustavo Guanabara
-<div align='center'>
+<div align="center">
 
-![Lógica de programação](https://img.shields.io/badge/Lógica-F9F6A7?style=for-the-badge&logoColor=000000)
-
-![Algoritmos](https://img.shields.io/badge/Algoritmos-F9F6A7?style=for-the-badge&logoColor=000000)
+![Lógica de programação](https://img.shields.io/badge/Lógica-F9F6A7?style=for-the-badge&logoColor=000000) ![Algoritmos](https://img.shields.io/badge/Algoritmos-F9F6A7?style=for-the-badge&logoColor=000000)
 
 
 </div>
