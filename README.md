@@ -55,4 +55,45 @@ Os tipos em portugol são ```Inteiro``` (int), ```Real``` (float), ```Caractere`
 
 Em portugol, se atribui valor à variável assim:
 
-msg <-
+msg <- "texto" (Mensagem recebe texto)
+
+## Aula 3 - Comandos de entrada
+
+Nessa aula, aprendemos comandos de entrada para pedir inputs de usuário através do comando Leia.
+
+O input é armazenado na variável armazenada.
+
+Aprendemos também os operadores aritméticos:
+
+| Símbolo | Significado
+| :---:|:---:
+| + | Adição
+| - | Subtração
+| * | Multiplicação
+| ^ | Exponenciação
+| / | Divisão
+| \ | Divisão inteira
+| % | Módulo
+
+E ordem de precedência das operações
+
+| Símbolo | Ordem de precedência
+| :---:|:---:
+| () | Parênteses
+| ^ | Exponenciação
+| * / | Multiplicação e divisão (aqui também o módulo e a divisão inteira)
+| +- | Adição e subtração
+
+Outros operadores aritméticos:
+
+| Operador | Significado matemático
+| :---:|:---:
+| Abs | Retorna valor absoluto
+| Exp | Exponenciação
+| Int | Valor inteiro
+| RaizQ | Raiz quadrada
+| Pi | Retorna Pi
+| Sen | Seno (rad)
+| Cos | Cosseno (rad)
+| Tan | Tangente (rad)
+| GraupRad | Converte graus para radiano
