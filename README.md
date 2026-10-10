@@ -155,3 +155,7 @@ Ordem de precedência dos operadores
 | E | 6 | Lógicos
 | OU | 7 | Lógicos
 | Não | 8 | Lógicos
+
+# Aula 5
+
+Introdução ao Scratch.
