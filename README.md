@@ -97,3 +97,61 @@ Outros operadores aritméticos:
 | Cos | Cosseno (rad)
 | Tan | Tangente (rad)
 | GraupRad | Converte graus para radiano
+
+## Aula 4 - Operadores lógicos e relacionais
+
+Operadores lógicos e relacionais retornam valores booleanos (verdadeiro ou falso).
+
+### Operadores relacionais
+
+| Operador | Significado
+| :---:|:---:
+| > | Maior que
+| < | Menor que
+| >= | Maior ou igual a
+| <= | Menor ou igual a
+| = | Igual a
+
+### Operadores lógicos: E, OU e NÃO
+
+Tabela verdade de E
+
+| p | q | p E q
+| :---:|:---:|:---:
+| V | V | V
+| V | F | F
+| F | V | F
+| F | F | F
+
+Tabela verdade de OU
+
+| p | q | p OU q
+| :---:|:---:|:---:
+| V | V | V
+| V | F | V
+| F | V | V
+| F | F | F
+
+Tabela verdade do NÃO
+
+| p | NÃO p
+| :---:|:---:
+| V | F 
+
+Ordem de precedência dos operadores
+
+1º - Aritméticos
+2º - Relacionais
+3º - Lógicos
+
+
+| Operador | Ordem | Tipo
+| :---:|:---:|:---:
+| () | 1| Aritmético
+| ^ | 2 | Aritmético
+| * / | 3| Aritmético
+| +- | 4 | Aritmético
+| Todos (>, <, <>, =, >=, <=>) | 5 | Relacionais
+| E | 6 | Lógicos
+| OU | 7 | Lógicos
+| Não | 8 | Lógicos
