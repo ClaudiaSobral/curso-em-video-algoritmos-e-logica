@@ -159,3 +159,12 @@ Ordem de precedência dos operadores
 # Aula 5
 
 Introdução ao Scratch.
+
+# Aula 6
+
+Resolução de problemas:
+
+- Criação de programa para calcular idade,
+- Criação de programa para calcular conversão de dólar,
+- Criação de programa para calcular conversão de temperatura,
+- Criação de programa para calcular empréstimo (simplificado)
