@@ -8,6 +8,15 @@
 
 Repositório criado para acompanhar meu desenvolvimento no [curso de algoritmos e lógica de programação](https://www.cursoemvideo.com/curso/curso-de-algoritmo/) do Professor Gustavo Guanabara.
 
+<div align="center">
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| :---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |
+🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🟡 |🔴 |🔴 |🔴 |🔴 |🔴 |🔴 |🔴 |🔴 |
+
+Legenda: 🔴 não iniciado · 🟡 em andamento · 🟢 concluído
+
+</div>
 
 ## Aula 1
 O prof. Guanabara nos introduz ao conceito de algoritmos, desmistificando a ideia de que algoritmos são coisas extremamentes complexas. Ele demonstra isso através de exemplos do cotidiano: por exemplo, atravessar a rua envolve uma série de passos até a conclusão da travessia.
@@ -168,3 +177,5 @@ Resolução de problemas:
 - Criação de programa para calcular conversão de dólar,
 - Criação de programa para calcular conversão de temperatura,
 - Criação de programa para calcular empréstimo (simplificado)
+
+# Aula 9 - Estruturas de Repetição 1
