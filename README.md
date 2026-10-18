@@ -185,3 +185,9 @@ Resolução de problemas:
       - Exercício 1: Contar de 0 a 10
 
       ![conte_ate_10](/docs/img/alg_conteate10.png)
+*Importante observar como o contador para em 11, pois ele executa o algoritmo até 10, isso é, ele executa o comando de somar mais um pós printar (ou seja, chega em 11), mas não é exibido em print pois a condição para acionar o loop não é cumprida.*
+
+      - Exercício 2: Contar de 10 até 0 
+
+      ![conte_de10_ate_0](/docs/img/alg_contede10ate0.png)
+*Observa-se o mesmo efeito com o final do contador em -1*
