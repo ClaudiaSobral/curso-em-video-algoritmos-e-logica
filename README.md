@@ -179,3 +179,9 @@ Resolução de problemas:
 - Criação de programa para calcular empréstimo (simplificado)
 
 # Aula 9 - Estruturas de Repetição 1
+
+- Enquanto: funciona enquanto satisfaz uma condição (como o while)
+
+      - Exercício 1: Contar de 0 a 10
+
+      ![conte_ate_10](/docs/img/alg_conteate10.png)
