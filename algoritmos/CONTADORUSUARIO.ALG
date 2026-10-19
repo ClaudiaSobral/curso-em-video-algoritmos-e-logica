@@ -11,11 +11,21 @@ Inicio
       Escreval("Quer contar de quanto em quanto?")
       leia(intervalo)
 
-      Se (final > comeco) ENTAO
+      Se (comeco > final) ENTAO
           Enquanto (comeco >= final) FACA
              Escreval(comeco)
-             comeco <- comeco - intervalo
+                 comeco <- comeco - intervalo
          FimEnquanto
+      senao
+           Se (comeco < final) ENTAO
+              Enquanto (comeco <= final) FACA
+              Escreval(comeco)
+              comeco <- comeco + intervalo
+              FimEnquanto
+           senao
+                Se (comeco = final) ENTAO
+                     Escreval("O início é igual ao final. Não há nada para contar!")
+                FimSe
       FimSe
       Escreval("Terminei de contar")
 
