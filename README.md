@@ -191,3 +191,5 @@ Resolução de problemas:
 
       ![conte_de10_ate_0](/docs/img/alg_contede10ate0.png)
 *Observa-se o mesmo efeito com o final do contador em -1*
+
+      - Exercício 3: Pedir pro usuário contar
