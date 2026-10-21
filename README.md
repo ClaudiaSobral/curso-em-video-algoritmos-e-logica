@@ -12,7 +12,7 @@ Repositório criado para acompanhar meu desenvolvimento no [curso de algoritmos 
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | :---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |
-🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🟡 |🔴 |🔴 |🔴 |🔴 |🔴 |🔴 |🔴 |🔴 |
+🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🟡 |🔴 |🔴 |🔴 |🔴 |🔴 |🔴 |🔴 |
 
 Legenda: 🔴 não iniciado · 🟡 em andamento · 🟢 concluído
 
@@ -178,7 +178,7 @@ Resolução de problemas:
 - Criação de programa para calcular conversão de temperatura,
 - Criação de programa para calcular empréstimo (simplificado)
 
-# Aula 9 - Estruturas de Repetição 1
+# Aula 9 - Estruturas de repetição 1
 
 - Enquanto: funciona enquanto satisfaz uma condição (como o while)
 
@@ -192,4 +192,33 @@ Resolução de problemas:
       ![conte_de10_ate_0](/docs/img/alg_contede10ate0.png)
 *Observa-se o mesmo efeito com o final do contador em -1*
 
-      - Exercício 3: Pedir pro usuário contar
+      - Exercício 3: Pedir pro usuário contar um intervalo inputado de 10 números e o algoritmo imprime o maior número
+
+      ![some10edigaomaior](/docs/img/alg_soma10numedizomaior.png)
+
+      - Exercício 4: Pedir nome e nota de alunos, dizer qual maior nota e o melhor aluno. Fazer média da turma
+
+      ![mediaalunos](/docs/img/alg_mediaalunos.png)
+
+# Aula 10 - Estruturas de repetição 2
+
+- Repita até: repete o loop até que uma condição mude
+
+Estrutura
+
+```
+      Repita (condicao)
+      Ate
+```
+
+      - Exercícios:
+            - Somador
+            [somador](/docs/img/alg_somador.png)
+
+            - Tabuada
+            [tabuada](/docs/img/alg_tabuada.png)
+            
+            - Contar de 1 a 10
+            - Conta números negativos
+            - Fatorial
+            - Números primos
