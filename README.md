@@ -12,7 +12,7 @@ Repositório criado para acompanhar meu desenvolvimento no [curso de algoritmos 
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | :---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |
-🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🟡 |🔴 |🔴 |🔴 |🔴 |🔴 |🔴 |🔴 |
+🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🟢 |🔴 |🔴 |🔴 |🔴 |🔴 |🔴 |🔴 |
 
 Legenda: 🔴 não iniciado · 🟡 em andamento · 🟢 concluído
 
@@ -219,6 +219,13 @@ Estrutura
             [tabuada](/docs/img/alg_tabuada.png)
             
             - Contar de 1 a 10
+            [conta_1_a_10](/docs/img/alg_conteate10.png)
             - Conta números negativos
+            [conta_negativos](/docs/img/alg_contanegativos.png)
+            
             - Fatorial
+            [fatorial](/docs/img/alg_fatorial.png)
+
             - Números primos
+            [numeros_primos](/docs/img/alg_primo.png)
+            *Cobre também o caso do número 1*
